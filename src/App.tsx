@@ -1,5 +1,7 @@
+import { Page } from "./components/Page";
+
 function App() {
-  return <div className="font-bold text-blue-600">Hello, world!</div>;
+  return <Page></Page>;
 }
 
 export default App;
